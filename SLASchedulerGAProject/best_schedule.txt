@@ -1,0 +1,11 @@
+SLA100A - 1 PM - Logos 325 - Numen
+SLA100B - 1 PM - Slater 003 - Richards
+SLA191A - 10 AM - Roman 216 - Shaw
+SLA191B - 3 PM - Beach 201 - Numen
+SLA201 - 1 PM - Frank 119 - Shaw
+SLA291 - 1 PM - Frank 119 - Lock
+SLA303 - 2 PM - Beach 301 - Banks
+SLA304 - 3 PM - Frank 119 - Richards
+SLA394 - 1 PM - Logos 325 - Singer
+SLA449 - 2 PM - Roman 216 - Banks
+SLA451 - 2 PM - Logos 325 - Zeldin
